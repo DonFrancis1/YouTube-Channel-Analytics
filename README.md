@@ -1,5 +1,5 @@
 # YouTube-Channel-Analytics
-https://app.powerbi.com/view?r=eyJrIjoiODFjOTU4YjUtZDIyMi00YzE5LWEzYjQtOGVkMmZiMzgzZjMwIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
+
 
 The objective is to understand its audience better and have a further strategy to drive more channel engagement.
 
